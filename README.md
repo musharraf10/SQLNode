@@ -18,6 +18,7 @@ The project is in its **initial stage** and focuses only on setting up the serve
 
 ## 📁 Project Structure
 
+```
 project-root/
 │
 ├── app.js # Main server file
@@ -26,6 +27,7 @@ project-root/
 ├── .env
 ├── package.json
 └── README.md
+```
 
 ---
 
